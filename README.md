@@ -1,3 +1,5 @@
+> **Not part of Ghost.** This is a copy of the Pi agent harness (a self-extensible coding agent), kept for reference. `nextgent-ghost-image/workers/` describes it as an optional worker a Ghost can attach; it is not installed by default.
+
 <p align="center">
   <a href="https://pi.dev">
     <img alt="pi logo" src="https://pi.dev/logo-auto.svg" width="128">
