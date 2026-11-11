@@ -1,3 +1,14 @@
+> **CultureReset fork of [earendil-works/pi](https://github.com/earendil-works/pi).** AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/earendil-works/pi).
+>
+> The upstream README follows unchanged.
+
+---
+
 <p align="center">
   <a href="https://pi.dev">
     <img alt="pi logo" src="https://pi.dev/logo-auto.svg" width="128">
